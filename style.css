@@ -1,0 +1,42 @@
+.container{
+    position: absolute;
+    background-color: darkslategrey;
+    color:oldlace;
+    top:10%;
+    right:20%;
+    left:20%;
+    height:50vw;
+    width:60%;
+    text-align: center;
+}
+
+#pass{
+    font-size: 2vw;
+    position: absolute;
+    top:20vw;
+    right:45%;
+    left:42%;
+    width:10vw;
+    height:3vw;
+    background-color:oldlace ;
+}
+
+.h1text{
+    font-size: 3vw;
+}
+
+#text{
+    padding:10px;
+    width:70%;
+    font-size: 3vw;
+    text-align: center;
+    background-color:oldlace ;
+
+}
+#fetch{
+    font-size: 6vw;
+    position: absolute;
+    right:30%;
+    left:30%;
+    top:20vw;
+}
